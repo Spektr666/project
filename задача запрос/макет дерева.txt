@@ -1,0 +1,14 @@
+<section class="section_curse_style">
+            <div class="width_section_one">
+                <div class="text_bold_decoration">java</div>
+                <div class="text_normal_decoration">бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла
+                    бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла бла
+                    бла бла бла бла бла бла бла бла бла бла бла бла бла</div>
+            </div>
+            <div class="width_section_two">
+                <div><span class="span_tittle_section_font_style">Автор:</span>jwqldjqlwdjqlwdjlqdqjlwdjhql</div>
+                <div><span class="span_tittle_section_font_style">Дата:</span>21830187203812</div>
+                <div><span class="span_tittle_section_font_style">Дата создани:</span>213123123</div>
+                <input value="показать курс" type="button" class="show_curses_button">
+            </div>
+        </section>
